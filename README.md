@@ -1,2 +1,3 @@
 # MPEI_TWT
-In this repository archived my tasks from practise of Computer Science
+My computer science practice exercises are archived in this repository.
+The course of the MPEI
