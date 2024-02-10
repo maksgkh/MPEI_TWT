@@ -1,2 +1,2 @@
 # MPEI_TWT
-Directory with practise of MPEI tasks
+In this repository archived my tasks from practise of Computer Science
